@@ -23,9 +23,10 @@ $.getJSON(weatherAlertsUrl, function(data) {
       var alertColor = 'orange';
       if (feature.properties.severity === 'Severe') alertColor = 'red';
       return { color: alertColor }
+      
        style: function(feature){
-      var alertColor = 'pink';
-      if (feature.properties.severity === 'Extreme') alertColor = 'orange';
+      var alertColor = 'orange';
+      if (feature.properties.severity === 'Extreme') alertColor = 'pink';
       return { color: alertColor
     },
     // Add a popup on each feature showing the NWS alert headline
