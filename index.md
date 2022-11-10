@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Ramen Ratings](/sample_page)
+[Ramen Ratings](/Ramen.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
