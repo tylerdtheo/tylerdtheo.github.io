@@ -19,7 +19,7 @@
 
 ### Geographic Information Systems 
 
-- [Assessing Spatial Inequality of Museums Across East Baton Rouge Parish, Louisiana](http://example.com/)
+[Assessing Spatial Inequality of Museums Across East Baton Rouge Parish, Louisiana](http://example.com/)
 
 
 ---
