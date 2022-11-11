@@ -15,7 +15,7 @@
 
 ### Geographic Information Systems 
 
-[Assessing Spatial Inequality of Museums Across East Baton Rouge Parish, Louisiana](/pdf/Assessing Spatial Inequality Across Museums in East Baton Rouge Parish.pdf)
+[Assessing Spatial Inequality of Museums Across East Baton Rouge Parish, Louisiana](/Assessing Spatial Inequality Across Museums in East Baton Rouge Parish.pdf)
 
 
 ---
