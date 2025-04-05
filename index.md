@@ -7,7 +7,7 @@
 [Ramen Ratings](/Ramen.ipynb)
 
 ---
-[Crunchyroll Anime Ratings](/Crunchyroll Anime Analysis.ipynb)
+[Crunchyroll Anime Ratings](/[Crunchyroll Anime Analysis.ipynb](https://github.com/tylerdtheo/tylerdtheo.github.io/blob/main/Crunchyroll%20Anime%20Analysis.ipynb))
 ---
 
 ### Geographic Information Systems 
