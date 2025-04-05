@@ -7,8 +7,7 @@
 [Ramen Ratings](/Ramen.ipynb)
 
 ---
-[Crunchyroll Anime Ratings](/pdf/sample_presentation.pdf)
-
+[Crunchyroll Anime Ratings](/Crunchyroll Anime Analysis.ipynb)
 
 ---
 
