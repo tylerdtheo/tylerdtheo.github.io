@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Ramen Ratings](https://github.com/tylerdtheo/tylerdtheo.github.io/blob/main/Exploratory%20Data%20Analysis%20-%20Ramen.ipynb)
+[Exploratory Data Analysis of Ramen Ratings](https://github.com/tylerdtheo/tylerdtheo.github.io/blob/main/Exploratory%20Data%20Analysis%20-%20Ramen.ipynb)
 
 ---
 [Crunchyroll Anime Analysis](https://github.com/tylerdtheo/tylerdtheo.github.io/blob/main/Crunchyroll%20Anime%20Analysis.ipynb)
